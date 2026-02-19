@@ -1,4 +1,4 @@
-# pie-thinking-timer
+# pi-thinking-timer
 
 A minimal [pi](https://github.com/nicepkg/pi) extension that shows a live timer on collapsed thinking blocks.
 
@@ -21,13 +21,13 @@ Inspired by [xRyul/pi-thinking-timer](https://github.com/xRyul/pi-thinking-timer
 ## Install
 
 ```bash
-pi install git:github.com/sasha-computer/pie-thinking-timer
+pi install git:github.com/sasha-computer/pi-thinking-timer
 ```
 
 Or try without installing:
 
 ```bash
-pi -e git:github.com/sasha-computer/pie-thinking-timer
+pi -e git:github.com/sasha-computer/pi-thinking-timer
 ```
 
 Then restart pi or run `/reload`.
@@ -41,8 +41,8 @@ If pi changes its internal UI structure, the extension fails safely and shows th
 ## Development
 
 ```bash
-git clone https://github.com/sasha-computer/pie-thinking-timer
-cd pie-thinking-timer
+git clone https://github.com/sasha-computer/pi-thinking-timer
+cd pi-thinking-timer
 pi -e ./thinking-timer.ts
 ```
 

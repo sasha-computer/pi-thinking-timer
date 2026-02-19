@@ -1,4 +1,4 @@
-# pie-thinking-timer
+# pi-thinking-timer
 
 Pi extension. Single file: `thinking-timer.ts`.
 

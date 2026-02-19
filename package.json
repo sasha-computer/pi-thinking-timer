@@ -1,12 +1,12 @@
 {
-  "name": "pie-thinking-timer",
+  "name": "pi-thinking-timer",
   "version": "1.0.0",
   "description": "Pi extension that shows a live timer on collapsed thinking blocks.",
   "license": "MIT",
   "author": "sasha-computer",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sasha-computer/pie-thinking-timer.git"
+    "url": "git+https://github.com/sasha-computer/pi-thinking-timer.git"
   },
   "keywords": ["pi-package", "pi", "pi-extension"],
   "pi": {

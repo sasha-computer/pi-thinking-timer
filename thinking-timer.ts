@@ -9,8 +9,8 @@ import type { ExtensionAPI, ExtensionContext } from "@mariozechner/pi-coding-age
 import { AssistantMessageComponent } from "@mariozechner/pi-coding-agent";
 
 const G = globalThis as any;
-const PATCHED = Symbol.for("pie-thinking-timer.patched");
-const STATE_KEY = "pie-thinking-timer.state";
+const PATCHED = Symbol.for("pi-thinking-timer.patched");
+const STATE_KEY = "pi-thinking-timer.state";
 
 type State = {
 	active: Map<string, number>;   // key -> start timestamp

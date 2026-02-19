@@ -1,4 +1,4 @@
-# pie-thinking-timer
+# pi-thinking-timer
 
 Pi extension that shows a live elapsed timer on collapsed thinking blocks.
 
